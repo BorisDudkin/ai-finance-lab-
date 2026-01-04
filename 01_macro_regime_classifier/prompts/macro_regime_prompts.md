@@ -18,4 +18,4 @@ Explain implications for:
 - Credit
 
 TEXT:
-{{TEXT}}
+{{fomc.txt}}
